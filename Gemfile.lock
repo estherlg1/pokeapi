@@ -87,6 +87,7 @@ DEPENDENCIES
   factory_girl
   faker
   pg
+  rack
   rack-test
   rake
   rspec
