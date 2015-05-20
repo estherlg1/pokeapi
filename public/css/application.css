@@ -1,0 +1,15 @@
+
+
+body {
+  background: url("../background.jpg") no-repeat fixed center;
+  background-size: cover;
+  width: 100%;
+  overflow: hidden;
+}
+
+#pokeform {
+  margin-left: 25%;
+    margin-right:25%;
+    width: 100%;
+    vertical-align: middle;
+}
