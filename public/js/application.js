@@ -12,7 +12,7 @@ $( document ).ready(function() {
     $(".pokeholder").append(pokeclone);
     $(pokeclone).parent().css({position: 'relative'});
     $(pokeclone).css({left: left_offset + "%", top: -100, position:'absolute'});
-    $(pokeclone).animate({ "top": "1000px" }, 2300 );
+    $(pokeclone).animate({ "top": "1000px" }, 4000 );
   }
 
   $("#random").click(function() {
